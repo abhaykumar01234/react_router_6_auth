@@ -1,0 +1,14 @@
+*,
+*::before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+nav a {
+  padding: 0.5rem 1.5rem 0.5rem 0;
+}
